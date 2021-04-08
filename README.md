@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ferminpalacios
+- 👀 I’m interested in learning to code a phone App.
+- 🌱 I’m currently learning JavaScript (long way to go)...
+- 💞️ I’m looking to collaborate on building the App Start up.
+- 📫 How to reach me ... ferminpalacios@hotmail.com
